@@ -1,5 +1,5 @@
 # 💫 About Me:
-My name is Connor Reed (He/Him) and I am currently collaborating on a new frontend for my school<br>grade book and planning on writing my first programming<br>language.<br><br>I primarily code in python and html/css/javascript but I know<br>many other programming languages.
+My name is Connor Reed (He/Him) and I am currently collaborating on a new frontend for my school<br>grade book and planning on writing my first programming language.<br><br>I primarily code in python and html/css/javascript but I know<br>many other programming languages.
 
 
 ## 🌐 Socials:
