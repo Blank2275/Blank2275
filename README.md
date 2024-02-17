@@ -1,7 +1,3 @@
-# 💫 About Me:
-My name is Connor Reed (He/Him) and I am currently working on a math practice ios app and learning C++/Arduino. <br><br>I primarily code in swift and html/css/javascript but I know<br>many other programming languages.
-
-
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/connor-francis-programming) 
 
